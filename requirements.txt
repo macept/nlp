@@ -1,0 +1,13 @@
+1) This code requires spacy and Python to be ran.
+2) To install spacy, first ensure Python is installed.
+3) Then ensure pip is installed.
+4) Then open cmd and type python -m pip install spacy
+
+NOTE)
+If this is unsuccesful, check your environmental variables and see if Python has been added to path.
+If python is not on path, find the file address where python is installed, add it, restart your computer,
+and try the "python -m pip install spacy" command again.
+
+
+#Note to hypdev code reviewer, Logan, our lecturer, told us a docker file 
+#was unnecessary and shouldn't be used.
